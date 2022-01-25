@@ -1,0 +1,8 @@
+{
+  "name": "first-node-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/helton-quintans/first-node-project.git",
+  "author": "Helton Quintãns <helton.quit@gmail.com>",
+  "license": "MIT"
+}
